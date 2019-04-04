@@ -1,6 +1,6 @@
-flatten0317- train features
-flatten0317_val - test features
+Imgae_flatten.ipyb file will help to create training and testing csvs from data images.
 
+CSV format:-
 1st column is Unamed nd can we dropped as did in script
 2nd column(0) is label
 	AD-0
