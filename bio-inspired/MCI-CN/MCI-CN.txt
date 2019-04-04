@@ -1,0 +1,1 @@
+SVM={'C': 1.0, 'gamma': 'auto', 'kernel': 'rbf'}
