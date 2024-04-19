@@ -14,3 +14,5 @@ The CNN used consisted of two 2D convolutional layers having 6 filters of dimens
 Various machine learning algorithms, were used to predict AD / CN subjects, for example Support Vector Machines (SVM), Decision Classification Tree, Random Forest Classification, K- Nearest Neighbors. 
 Grid Search CV was essentially used for hyper-parameter tuning and parameter selection. The grid search provided by GridSearchCV exhaustively generates candidates from a grid of parameter values specified with the param_grid parameter.
 
+# Research Paper for reference:
+https://www.inderscience.com/offers.php?id=117272
